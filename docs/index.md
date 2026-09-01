@@ -23,6 +23,9 @@ ROS相关资料（[网盘下载地址](https://pan.baidu.com/s/1viua4SZ7tP2DtU2X
 * 安装好 ros kinetic 的虚拟机（密码：rosindustrial）Ubuntu 16.04：*.ova
 * Windows虚拟机（密钥：ZF3R0-FHED2-M80TY-8QYGC-NPKYF）：*.exe
 
+ROS每章节运行代码:
+[第二章](./Run_code_for_%20the_%20chapter/ROS理论与实践第二章代码运行.md)
+
 
 ## 2. ROS 桥接器
 
