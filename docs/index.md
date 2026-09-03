@@ -22,15 +22,18 @@ ROS相关资料（[网盘下载地址](https://pan.baidu.com/s/1viua4SZ7tP2DtU2X
 * 课件和视频：ROS资料.zip
 * 安装好 ros kinetic 的虚拟机（密码：rosindustrial）Ubuntu 16.04：*.ova
 * Windows虚拟机（密钥：ZF3R0-FHED2-M80TY-8QYGC-NPKYF）：*.exe
+* 补充：[ubuntu下虚拟机的运行方式](ubuntu下虚拟机的运行方式.md)
 
 ROS每章节运行代码:
 
-[第二章](./Run_code_for_%20the_%20chapter/ROS理论与实践第二章代码运行.md)
-[第三章]
+windows系统（通过虚拟机运行）：
+
+[第二章](<./Run_code_for_%20the_%20chapter/ROS理论与实践第二章代码运行.md>)
+
+
+linux系统：
 
 ## 2. ROS 桥接器
-
-
 
 * [设置并连接到 Carla 模拟器](./set_up_and_connect_to_carla.md)
 
